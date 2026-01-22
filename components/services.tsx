@@ -5,7 +5,7 @@ export default function Services() {
     <section id="services" className="py-24 bg-[#0f1311] text-white">
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center max-w-2xl mx-auto mb-14">
-          <h2 className="text-center text-4xl uppercase tracking-widest text-white mb-3">
+          <h2 className="text-center text-4xl uppercase tracking-widest text-white mb-3 font-serif font-bold">
             Nos <span className="text-[#E30613]">services</span>
           </h2>
         </div>

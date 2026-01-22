@@ -4,6 +4,8 @@ import Hero from"@/components/hero"
 import About from"@/components/about"
 import Services from"@/components/services"
 import Stats from"@/components/stats"
+import Partenaires from"@/components/partenaires"
+import Avis from"@/components/avis"
 export default function Home() {
   return (
     <>
@@ -12,6 +14,8 @@ export default function Home() {
     <About/>
     <Services/>
     <Stats/>
+    <Partenaires/>
+    <Avis/>
     </>
   );
 }

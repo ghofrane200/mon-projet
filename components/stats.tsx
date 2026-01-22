@@ -5,7 +5,7 @@ export default function Stats() {
 
         {/* Title */}
         <div className="text-center max-w-2xl mx-auto mb-16">
-          <h2 className="text-center text-4xl uppercase tracking-widest text-white mb-6 ">
+          <h2 className="text-center text-4xl uppercase tracking-widest text-white mb-6 font-serif font-extrabold ">
             Prouvé par les <span className="text-[#E30613]">Stats</span>
           </h2>
           <p className="text-white mb-4 text-center text-sm">
