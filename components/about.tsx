@@ -15,7 +15,7 @@ export default function About() {
             className="object-contain"
           />
           </div>
-          <p className="text-white mb-4 text-center text-sm ">
+          <p className="text-white mb-4 text-center text-sm p-5">
             Nous sommes dédiés à accélérer la croissance des entreprises grâce à des stratégies complètes de publicité numérique et en ligne. 
             Notre équipe d'experts excelle en stratégies marketing, SEO, marketing de contenu et réseaux sociaux. 
             Partenaire avec VISIOAD et découvrez une approche sur mesure du marketing digital qui transforme votre entreprise.

@@ -6,6 +6,7 @@ import Services from"@/components/services"
 import Stats from"@/components/stats"
 import Partenaires from"@/components/partenaires"
 import Avis from"@/components/avis"
+import Questions from"@/components/questions"
 export default function Home() {
   return (
     <>
@@ -16,6 +17,7 @@ export default function Home() {
     <Stats/>
     <Partenaires/>
     <Avis/>
+    <Questions/>
     </>
   );
 }

@@ -17,9 +17,9 @@ export default function Header() {
           <li><Link href="#about" className="hover:text-gray-300">À propos</Link></li>
           <li><Link href="#services" className="hover:text-gray-300">Services</Link></li>
           <li><Link href="#stats" className="hover:text-gray-300">Stats</Link></li>
-          <li><Link href="#partners" className="hover:text-gray-300">Partenaires</Link></li>
-          <li><Link href="#reviews" className="hover:text-gray-300">Avis Client</Link></li>
-          <li><Link href="#faq" className="hover:text-gray-300">Questions</Link></li>
+          <li><Link href="#partenaires" className="hover:text-gray-300">Partenaires</Link></li>
+          <li><Link href="#avis" className="hover:text-gray-300">Avis Client</Link></li>
+          <li><Link href="#questions" className="hover:text-gray-300">Questions</Link></li>
         </ul>
         <Link
           href="#contact"
