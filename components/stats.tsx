@@ -36,7 +36,6 @@ export default function Stats() {
     <section id="stats" className="py-20 bg-black text-white">
       <div className="max-w-7xl mx-auto px-6">
 
-        {/* Title */}
         <div className="text-center max-w-2xl mx-auto mb-16">
           <h2 className="text-center text-4xl uppercase tracking-widest text-white mb-6 font-serif font-extrabold">
             Prouvé par les <span className="text-[#E30613]">Stats</span>
