@@ -2,9 +2,9 @@ import Image from "next/image";
 import David from "@/public/david.png"
 import Liam from "@/public/liam.svg"
 import Ethan from "@/public/ethan.svg"
-export default function Testimonials() {
+export default function Avis() {
   return (
-    <section id="avis" className="py-24 bg-black text-white">
+    <section id="avis" className="py-20 bg-black text-white">
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center max-w-2xl mx-auto mb-16">
           <h2 className="text-4xl uppercase tracking-widest mb-3 font-serif font-bold">

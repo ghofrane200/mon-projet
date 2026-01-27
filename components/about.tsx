@@ -2,7 +2,7 @@ import Image from "next/image";
 import Team from "@/public/team.svg"
 export default function About() {
   return (
-    <section id="about" className="py-24 bg-black text-white  px-6 gap-8 items-center">
+    <section id="about" className="py-20 bg-black text-white  px-6 gap-8 items-center">
         <div>
           <h2 className="text-center text-4xl uppercase tracking-widest text-white mb-6 font-serif font-extrabold">
            À propos de <span className="text-[#E30613]">nous</span>

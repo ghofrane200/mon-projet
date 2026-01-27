@@ -5,7 +5,7 @@ import Microsoft from "@/public/microsoft.svg";
 import Amazon from "@/public/amazon.svg";
 export default function Partenaires (){
   return (
-    <section id="services" className="py-24 bg-[#0f1311] text-white">
+    <section id="partenaires" className="py-20 bg-[#0f1311] text-white">
       <div className="max-w-7xl mx-auto px-6">
         <div className="text-center max-w-2xl mx-auto mb-14 leading-relaxed">
           <h2 className="text-4xl uppercase tracking-widest mb-3 font-serif font-Bold">

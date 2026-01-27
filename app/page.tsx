@@ -7,6 +7,7 @@ import Stats from"@/components/stats"
 import Partenaires from"@/components/partenaires"
 import Avis from"@/components/avis"
 import Questions from"@/components/questions"
+import Contact from"@/components/contact"
 export default function Home() {
   return (
     <>
@@ -18,6 +19,7 @@ export default function Home() {
     <Partenaires/>
     <Avis/>
     <Questions/>
+    <Contact/>
     </>
   );
 }

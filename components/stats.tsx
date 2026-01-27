@@ -1,6 +1,6 @@
 export default function Stats() {
   return (
-    <section id="stats" className="py-24 bg-black text-white">
+    <section id="stats" className="py-20 bg-black text-white">
       <div className="max-w-7xl mx-auto px-6">
 
         {/* Title */}

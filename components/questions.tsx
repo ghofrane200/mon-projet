@@ -1,6 +1,6 @@
 export default function Questions() {
   return (
-    <section id="questions" className="py-24 bg-[#0f1311] text-white">
+    <section id="questions" className="py-20 bg-[#0f1311] text-white">
       <div className="max-w-5xl mx-auto px-6">
 
           <h2 className="text-center text-4xl uppercase tracking-widest text-white mb-6 font-serif font-extrabold">
@@ -59,7 +59,7 @@ export default function Questions() {
              Quels sont les tarifs des services de VISIOAD ?
             </h3>
             <p className="text-gray-400 text-sm">
-Les tarifs des services de VISIOAD varient en fonction des besoins spécifiques de votre entreprise. Pour obtenir un devis personnalisé, veuillez nous contacter directement.             </p>
+              Les tarifs des services de VISIOAD varient en fonction des besoins spécifiques de votre entreprise. Pour obtenir un devis personnalisé, veuillez nous contacter directement.             </p>
           </div>
 
         </div>
