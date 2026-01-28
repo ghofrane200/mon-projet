@@ -17,7 +17,7 @@ function AnimatedNumber({ value, suffix = "", prefix = "" }: AnimatedNumberProps
   useEffect(() => {
     if (isInView) {
       animate(count, value, {
-        duration: 3,
+        duration:2,
         ease: "easeOut",
         onUpdate(latest) {
           if (ref.current) {

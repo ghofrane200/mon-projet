@@ -21,8 +21,7 @@ export default function Header() {
           <ul className="flex items-center gap-8 text-white text-sm font-medium">
             <li className="hover:text-red-500"><Link href="#about">À propos</Link></li>
             <li className="hover:text-red-500"><Link href="#services">Services</Link></li>
-            <li className="hover:text-red-500"><Link href="#stats">Stats</Link></li>
-            <li className="hover:text-red-500"><Link href="#partenaires">Partenaires</Link></li>
+            <li className="hover:text-red-500"><Link href="#stats">Statistiques</Link></li>
             <li className="hover:text-red-500"><Link href="#avis">Avis Client</Link></li>
             <li className="hover:text-red-500"><Link href="#questions">Questions</Link></li>
           </ul>
@@ -52,9 +51,7 @@ export default function Header() {
         <ul className="flex flex-col items-center gap-6 py-6 text-white text-sm font-medium">
           <li className="hover:text-red-500"><Link href="#about" onClick={() => setOpen(false)}>À propos</Link></li>
           <li className="hover:text-red-500"><Link href="#services" onClick={() => setOpen(false)}>Services</Link></li>
-          <li className="hover:text-red-500"><Link href="#stats" onClick={() => setOpen(false)}>Stats</Link></li>
-          <li className="hover:text-red-500"><Link href="#partenaires" onClick={() => setOpen(false)}>Partenaires</Link></li>
-          <li className="hover:text-red-500"><Link href="#avis" onClick={() => setOpen(false)}>Avis Client</Link></li>
+          <li className="hover:text-red-500"><Link href="#stats" onClick={() => setOpen(false)}>Statistiques</Link></li>          <li className="hover:text-red-500"><Link href="#avis" onClick={() => setOpen(false)}>Avis Client</Link></li>
           <li className="hover:text-red-500"><Link href="#questions" onClick={() => setOpen(false)}>Questions</Link></li>
 
           <Link
